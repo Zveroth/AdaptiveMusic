@@ -22,7 +22,7 @@ int main()
 
 	char Key = 0;
 
-	printf("Controls:\nq - quit\ne - decrease health by 5\nr - increase health by 5\ny - decrease sanity by 5\nu - increase sanity by 5\n\n");
+	printf("Controls:\nq - quit\ne - decrease health by 5\nr - increase health by 5\ny - decrease sanity by 5\nu - increase sanity by 5\nMusic starts to adapt after at least one stat falls bellow 50\n\n");
 
 	while (Key != 'q')
 	{
